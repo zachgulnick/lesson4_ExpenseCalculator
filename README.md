@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (A calculator for calculating monthly expenses.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/zachgulnick/lesson4_ExpenseCalculator)
 
 ### Lessons Learned in the Assignment:
 1. (How to use document.getElementById)
